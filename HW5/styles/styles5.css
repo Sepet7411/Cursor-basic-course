@@ -1,0 +1,90 @@
+body {
+    background-color: rgb(38, 38, 38);
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 12px;
+    color: white;
+    margin-top: 1%;
+    margin-left: 5%;
+}
+h3 {
+    margin-left: 10%;
+}
+caption {
+    text-align: left;
+    margin-left: 5%;
+    margin-bottom: 5px;
+    font-style:italic;
+    font-size: 14px;
+}
+table {
+    border: 1px solid rgb(134, 134, 134);
+    width: 60%;
+    height: 170px;
+    border-radius: 4px;
+}   
+th {
+    text-align: left;
+    width: 47%;
+    height: 25px;
+    border-bottom: solid 1px rgb(134, 134, 134);
+
+}
+.point1 {
+    color: rgb(98, 98, 98);
+    cursor: pointer;
+}
+.time {
+    color: rgb(98, 98, 98);
+}
+td {
+    height: 20px; 
+    border-bottom: solid 1px rgb(134, 134, 134);
+    height: 25px;
+}
+i {
+    padding-left: 7px;
+}
+.name3 {
+    padding-left: 10px;
+}
+.date3 {
+    width: 20%;
+    padding-left: 10px;
+}
+.point3 {
+    text-align: right;
+    width: 30px;
+    cursor: pointer;
+    padding-right: 15px;
+
+    
+}
+.search {
+    background-color: rgb(93, 93, 93);
+    border: none;
+    height: 32px;
+    border-radius: 4px;
+    width: 200px;
+    padding-left: 30px;
+}
+.input-search {
+    position: relative;
+    cursor: pointer;
+    margin-left: 35px;
+}
+.input-search i {
+    position: absolute;
+    right: 180px;
+    padding-top: 10px;
+    color: rgb(150, 150, 150);
+}
+.file i {
+    color: rgb(1, 103, 186);
+}
+img {
+    width: 13px;
+    height: 13px;
+    background-color: rgb(1, 103, 186);
+    margin-right: 3px;
+    margin-left: 3px;
+}
